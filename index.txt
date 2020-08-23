@@ -1,0 +1,30 @@
+
+Created index.html
+Open https://getbootstrap.com/docs/4.0/getting-started/introduction/
+  copy css and js links to use bootstrap
+
+HTML Semantic Elements from https://www.w3schools.com/html/html5_semantic_elements.asp
+
+type div.row
+type div.col-md-6 enter
+
+
+html title icon code, to add title photo
+copy from w3 schools
+copy img address to href
+
+p-3 : padding, good to give padding like this since it;s adjust according to font size.
+Check "em vs rem in css" in youtube
+
+get nav bar from
+https://getbootstrap.com/docs/4.0/components/navbar/
+
+remove bg-light from nav code copied
+my-auto : vertical center items in bootstrap ( margin vertical y:vertical, x: horizontal)
+ml-auto : to add margin left . so in effect  move ul to right
+
+
+For icons, https://fontawesome.com/kits/0d2607374c/use?welcome=yes
+
+
+
